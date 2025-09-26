@@ -1,7 +1,7 @@
 # Mohamed Faris - Full Stack Developer Screening Test
 
 ## Overview
-This repository contains the solutions for the **TANDEMLOOP  First Screening Test**. The test consists of **4 basic programming problems**. All solutions are implemented using **JavaScript** and can be run using **Node.js**.
+This repository contains the solutions for the screening test. The test consists of **4 basic programming problems**. All solutions are implemented using **JavaScript** and can be run using **Node.js**.
 
 ---
 
